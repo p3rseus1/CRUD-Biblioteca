@@ -1,0 +1,19 @@
+.container-fluid {
+  margin: 0 61px !important;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1272px;
+  }
+}
+
+.logo:hover {
+  opacity: 0.8 !important;
+  transition: 0.3s;
+}
+
+.inicio:hover {
+  opacity: 0.8 !important;
+  transition: 0.3s;
+}
